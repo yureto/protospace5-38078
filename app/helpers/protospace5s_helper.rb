@@ -1,0 +1,2 @@
+module Protospace5sHelper
+end
